@@ -1,6 +1,6 @@
 # Hi there, I'm Connor 👋
 
-⚡ I'm a Computer Science student at Western University expecting to gradutate in Spring 2023!
+⚡ I'm a 4th year Computer Science student at Western University expecting to gradutate in Spring 2023!
 
 👩‍💻 Starting in May 2021 I did a 16-month Software Development internship at J.D. Power and got a lot of great experience!
 
