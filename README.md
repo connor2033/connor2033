@@ -6,7 +6,7 @@
 
 🔭 I love working on creative new projects like https://www.checkable.ca/, reach out to me if you'd like to collaborate!
 
-📫 You can contact me through my personal website https://connorhaines.net/
+📫 You can find my Resume and contact me through my personal website https://connorhaines.net/
 
 <!--
 **connor2033/connor2033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
