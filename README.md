@@ -2,7 +2,7 @@
 
 ⚡ I'm a Computer Science student at Western University expecting to gradutate in Spring 2023!
 
-🤔 Starting in May 2021 I did a 16-month Software Development internship at J.D. Power and got a lot of great experience!
+👩‍💻 Starting in May 2021 I did a 16-month Software Development internship at J.D. Power and got a lot of great experience!
 
 🔭 I love working on creative new projects like https://www.checkable.ca/, reach out to me if you'd like to collaborate!
 
