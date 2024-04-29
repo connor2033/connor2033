@@ -1,8 +1,8 @@
 # Hi there, I'm Connor 👋
 
-⚡ I'm a Software Developer at J.D. Power working on cutting-edge data solutions for the automotive industry!
+⚡ I'm an Intermediate Software Developer at J.D. Power working on cutting-edge data solutions for the automotive industry!
 
-👩‍💻 I recently graduated with a CS degree after completing a 16-month Software Development internship at J.D. Power!
+👩‍💻 I graduated with a CS degree after completing a 16-month Software Development internship at J.D. Power!
 
 🔭 I love working on exciting new projects like this [AR Visualization of a Neurovascular Aneurysm](https://www.youtube.com/watch?v=BPGqZ186OqE) or https://www.Checkable.ca. Reach out if you'd like to collaborate!
 
